@@ -1,0 +1,17 @@
+.sobre_descricao{
+    color: #8c8888;
+    font-family: 'Roboto';
+    font-weight: 300;
+}
+
+@media screen and (min-width: 0) {
+    .sobre_descricao {
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .sobre_descricao {
+        font-size: 1.75rem;
+    }
+}
